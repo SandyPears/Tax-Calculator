@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OO programming</name>
+    </assembly>
+    <members>
+        <member name="F:OO_programming.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:OO_programming.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:OO_programming.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:OO_programming.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:OO_programming.PaySlip">
+            <summary>
+            Class a capture details accociated with an employee's pay slip record
+            </summary>
+        </member>
+        <member name="T:OO_programming.PayCalculator">
+            <summary>
+            Base class to hold all Pay calculation functions
+            Default class behaviour is tax calculated with tax threshold applied
+            </summary>
+        </member>
+        <member name="M:OO_programming.PayCalculator.GetGross(System.Double)">
+            <summary>
+            Calculates gross pay
+            </summary>
+            <param name="hours"></param>
+        </member>
+        <member name="M:OO_programming.PayCalculator.GetTax">
+            <summary>
+            Calculates tax and finds tax bracket
+            </summary>
+        </member>
+        <member name="M:OO_programming.PayCalculator.GetSuper">
+            <summary>
+            Calculates the super
+            </summary>
+        </member>
+        <member name="M:OO_programming.PayCalculator.GetNetPay">
+            <summary>
+            Calculates net pay
+            </summary>
+        </member>
+        <member name="T:OO_programming.PayCalculatorNoThreshold">
+            <summary>
+            Extends PayCalculator class handling No tax threshold
+            </summary>
+        </member>
+        <member name="M:OO_programming.PayCalculatorNoThreshold.ReadTaxData">
+            <summary>
+            reads csv data and stores the data into arrays
+            </summary>
+        </member>
+        <member name="T:OO_programming.PayCalculatorWithThreshold">
+            <summary>
+            Extends PayCalculator class handling With tax threshold
+            </summary>
+        </member>
+        <member name="M:OO_programming.PayCalculatorWithThreshold.ReadTaxData">
+            <summary>
+            reads csv data and stores the data into arrays
+            </summary>
+        </member>
+        <member name="T:OO_programming.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:OO_programming.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:OO_programming.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,2 @@
+EmployeeID,FullName,HoursWorked,HourlyRate,TaxThreshold,GrossPay,Tax,NetPay,Super
+1,Marge Student,20,25,Y,500,32.805800000000005,467.1942,55

@@ -1,0 +1,103 @@
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\OO programmingTests.dll
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\OO programmingTests.pdb
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\OO programming.exe
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\CsvHelper.dll
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\System.Memory.dll
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\System.Numerics.Vectors.dll
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\System.Buffers.dll
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\OO programming.pdb
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\OO programming.exe.config
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\CsvHelper.xml
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\System.Memory.xml
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\System.Numerics.Vectors.xml
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\bin\Debug\System.Buffers.xml
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\obj\Debug\OO programmingTests.csproj.AssemblyReference.cache
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\obj\Debug\OO programmingTests.csproj.CoreCompileInputs.cache
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\obj\Debug\OO programmingTests.csproj.CopyComplete
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\obj\Debug\OO programmingTests.dll
+C:\CordeliaAdam_ICTPRG302_Pro2_of_3\Part 3 application files - XML\OO programmingTests\obj\Debug\OO programmingTests.pdb
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\OO programmingTests.dll
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\OO programmingTests.pdb
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\OO programming.exe
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\CsvHelper.dll
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\System.Memory.dll
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\System.Numerics.Vectors.dll
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\System.Buffers.dll
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\OO programming.pdb
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\OO programming.exe.config
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\CsvHelper.xml
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\System.Memory.xml
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\System.Numerics.Vectors.xml
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\bin\Debug\System.Buffers.xml
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\obj\Debug\OO programmingTests.csproj.AssemblyReference.cache
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\obj\Debug\OO programmingTests.csproj.CoreCompileInputs.cache
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\obj\Debug\OO programmingTests.csproj.CopyComplete
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\obj\Debug\OO programmingTests.dll
+E:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Part 3 application files - FINAL\OO programmingTests\obj\Debug\OO programmingTests.pdb
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\OO programmingTests.xml
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\OO programmingTests.dll
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\OO programmingTests.pdb
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\OO programming.exe
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\CsvHelper.dll
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\System.Memory.dll
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\System.Numerics.Vectors.dll
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\System.Buffers.dll
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\OO programming.pdb
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\OO programming.exe.config
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\CsvHelper.xml
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\System.Memory.xml
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\System.Numerics.Vectors.xml
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\bin\Debug\System.Buffers.xml
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\obj\Debug\OO programmingTests.csproj.AssemblyReference.cache
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\obj\Debug\OO programmingTests.csproj.CoreCompileInputs.cache
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\obj\Debug\OO programmingTests.csproj.CopyComplete
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\obj\Debug\OO programmingTests.dll
+D:\Tafe 2024\Cert 4 - Programming\Programming\Assesments\OOP\5-Due 10 June\Complete\Part 3 application files - FINAL\OO programmingTests\obj\Debug\OO programmingTests.pdb
